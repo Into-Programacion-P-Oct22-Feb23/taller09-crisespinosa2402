@@ -1,3 +1,4 @@
+Integrantes: Cristian Espinosa - David Montoya
 # Taller 9 (Laboratorio)
 ## Construcción de programas usando arreglos unidimensionales
 
